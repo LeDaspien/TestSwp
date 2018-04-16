@@ -26,7 +26,7 @@ class GameViewController: UIViewController {
             }
             
             view.ignoresSiblingOrder = true
-            
+            print("test")
             view.showsFPS = true
             view.showsNodeCount = true
         }
